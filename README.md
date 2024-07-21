@@ -21,17 +21,26 @@
 - Built an ETL pipeline for data extraction and compatibility for pricing predictions from Data lakes and Hadoop clusters for a client project with Morgan Stanley
 
 ## Projects
+### Arise Kansas NSF Epscore
+
+
+![image](https://github.com/user-attachments/assets/68bdd5ce-9212-4e55-9acb-d1149c465d9d)
+
 ### GNN Based Criticality Analysis in Interdependent critical infrastructure
 [Publication](https://ieeexplore.ieee.org/abstract/document/10520547)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed a scalable, adaptable framework using Graph Neural Networks (GNNs) to identify critical nodes/links in interconnected infrastructure networks. Incorporated performance-based feature metrics alongside traditional network-based metrics (like degree and eigenvector centrality) for vulnerability assessment. Achieved high accuracy in node (92.34% to 97.24%) and link (98.64% to 99.01%) classification using the CLARC dataset, demonstrating the efficacy of GNNs in pinpointing critical nodes and links.
+
+![image](https://github.com/user-attachments/assets/68bdd5ce-9212-4e55-9acb-d1149c465d9d)
+
 
 ![Poster Presentation at ARSIE EPSCore](/assets/GNN_based_criticality_analysis.jpg)
 
 ### A Transductive Graph Neural Network learning for Grid Resilience Analysis
 [Publication]((https://ieeexplore.ieee.org/abstract/document/10333912)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Developed a novel approach using transductive Graph Neural Network (GNN) learning to enhance power grid resilience by identifying critical nodes and links. The GNN-based method leverages the grid's graph structure and operational data to learn resilience metrics, outperforming traditional simulation-based methods. Demonstrated the approach's efficacy through case studies on node criticality and cascading outages, highlighting its scalability and accuracy.
+
 
 
 ## Talks & Lectures
