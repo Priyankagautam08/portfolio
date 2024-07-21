@@ -31,10 +31,6 @@
 
 Developed a scalable, adaptable framework using Graph Neural Networks (GNNs) to identify critical nodes/links in interconnected infrastructure networks. Incorporated performance-based feature metrics alongside traditional network-based metrics (like degree and eigenvector centrality) for vulnerability assessment. Achieved high accuracy in node (92.34% to 97.24%) and link (98.64% to 99.01%) classification using the CLARC dataset, demonstrating the efficacy of GNNs in pinpointing critical nodes and links.
 
-![image](https://github.com/user-attachments/assets/68bdd5ce-9212-4e55-9acb-d1149c465d9d)
-
-
-![Poster Presentation at ARSIE EPSCore](/assets/GNN_based_criticality_analysis.jpg)
 
 ### A Transductive Graph Neural Network learning for Grid Resilience Analysis
 [Publication]((https://ieeexplore.ieee.org/abstract/document/10333912)
