@@ -24,7 +24,7 @@
 ### Arise Kansas NSF Epscore
 
 
-![image](https://github.com/user-attachments/assets/68bdd5ce-9212-4e55-9acb-d1149c465d9d)
+![image]
 
 ### GNN Based Criticality Analysis in Interdependent critical infrastructure
 [Publication](https://ieeexplore.ieee.org/abstract/document/10520547)
