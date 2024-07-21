@@ -1,10 +1,10 @@
 # Data Scientist | Researcher 
 
-#### Technical Skills: Python, Data Science, GCP, Machine Learning, SQL, AWS, MATLAB
+#### Technical Skills: Python, Data Science, GCP, Machine Learning, SQL, AWS, MATLAB, HTML, C, C++, MTLB
 
 ## Education
 - Ph.D., ECE | Kansas State University (_Aug 2022_)								       		
-- M. Tech., Computer Science & Engineering	| Indian Institute of Technlogogy Gandhinagar (_ July 2019_)	 			        		
+- M. Tech., Computer Science	| Indian Institute of Technology Gandhinagar (_July 2019_)	 			        		
 - B.Tech., Information Technology | AKTU University (_June 2016_)
 
 ## Work Experience
