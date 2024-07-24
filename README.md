@@ -1,6 +1,6 @@
 # Data Scientist | Researcher 
 
-#### Technical Skills: Python, Data Science, GCP, Machine Learning, SQL, AWS, MATLAB, HTML, C, C++, MTLB
+#### Technical Skills:  Data Science, Programming, Python,, PyTorch, Networkx, GCP, Machine Learning, SQL, AWS, MATLAB, HTML, C, C++, MTLB
 
 ## Education
 - Ph.D., ECE | Kansas State University (_Aug 2022_)								       		
@@ -12,7 +12,7 @@
 **Data Science Analyst | Accenture Applied Intelligence**  
 _Gurugram, India_  
 _Sep 2021 – July 2022_  
-- **Workforce Planning & Optimization Strategy:** Developed an automated tool to optimize workforce by analyzing job roles, hiring patterns, and market trends. Used Python, NLP, data analytics, machine learning, and Power BI for workflow planning.
+- **Workforce Planning & Optimization Strategy:** Worked on an automated tool to optimize the workforce by analyzing job roles, hiring patterns, and market trends. Used Python, NLP, data analytics, machine learning, and Power BI for workflow planning.
 - **New Workforce Strategy:** Contributed to research on task categorization and intelligent augmentation, providing AI/ML and Python support.
 
 **Data Science Consultant | Eclerx Service Ltd.**  
@@ -28,7 +28,7 @@ _July 2019 – Sep 2021_
 **GRA | Kansas State University**  
 _Kansas, USA_  
 _2022 - Current_  
-- Developing a graph-theoretic framework to study the relationship between interdependent critical infrastructure to pinpoint critical assets and links to build resilience & robustness - **GRA NSF Grant**.
+- Developing a graph-theoretic framework to study the relationship between interdependent critical infrastructure to pinpoint critical assets and links to incorporate resilience & robustness - **GRA NSF Grant**.
 - Collaborating with researchers from PNNL to identify influential nodes in dynamic networks using deep learning and reinforcement learning techniques - **PNNL**.
 - Collaboration project on Inferring Network Structure in Models of Opinion Dynamics - **AMS MRC 2023**.
 
@@ -36,14 +36,12 @@ _2022 - Current_
 _Gujarat, India_  
 _2017 - 2019_  
 - Thesis: [Crowd Counting and Monitoring in a Surveillance System](https://www.overleaf.com/read/rgtwrqsqddhd)
-- Proposed crowd monitoring solution for Rath Yatra using GPS and sensors. Developed a web-based system for traffic prediction with JavaScript, HTML, and Google Maps API.
+- Proposed crowd monitoring solution for Rath Yatra using GPS and sensors.
+- Developed a web-based system for traffic prediction with JavaScript, HTML, and Google Maps API.
 - Provided rebar counting solution for TATA INNOVERSE in the steel industry.
 - Explored state-of-the-art models and developed an innovative approach using depth images for object detection and counting.
 
 ## Projects
-### Arise Kansas NSF Epscor
-
-![image]
 
 ### GNN Based Criticality Analysis in Interdependent critical infrastructure
 [Publication](https://ieeexplore.ieee.org/abstract/document/10520547)
@@ -55,11 +53,17 @@ Developed a scalable, adaptable framework using Graph Neural Networks (GNNs) to 
 
 Developed a novel approach using transductive Graph Neural Network (GNN) learning to enhance power grid resilience by identifying critical nodes and links. The GNN-based method leverages the grid's graph structure and operational data to learn resilience metrics, outperforming traditional simulation-based methods. Demonstrated the approach's efficacy through case studies on node criticality and cascading outages, highlighting its scalability and accuracy.
 
+### ARISE Kansas NSF EPSCoR
+
+As a Graduate Research Assistant on the ARISE (Adaptive and Resilient Infrastructures driven by Social Equity) project, I focus on developing scalable Graph Neural Network (GNN) models. My work aims to pinpoint critical nodes and links within Kansas' infrastructure systems to ensure resilience and robustness. Additionally, I handle uncertainty quantification for disasters and hazards, contributing to the project's goal of enhancing infrastructure resilience with a strong emphasis on social equity. This NSF-funded initiative integrates multidisciplinary research to support vulnerable communities in Kansas.
+
+For more information, visit the project website: [ARISE Kansas NSF EPSCoR](https://nsfepscor.ku.edu/track-1-arise/) [1].
+
 ## Talks & Lectures
 
 - **AMS MRC on Complex Social Systems** (2023)
   - Beaver Hollow Conference Center, New York
-  - Group Presentation: Inferring Network Structure in Models of Opinion Dynamics
+  - Presentation: Inferring Network Structure in Models of Opinion Dynamics
 
 - **ARISE Annual Symposium** (2023)
   - Wichita State University, Wichita
@@ -67,11 +71,11 @@ Developed a novel approach using transductive Graph Neural Network (GNN) learnin
 
 - **JMM Joint Mathematics Meeting** (2024)
   - Mascon Center, San Diego
-  - Progress Group Session: MRC Social Week
+  - Group Session: MRC Social Week (Progress)
 
 - **IEEE GreenTech Conference** (2024)
   - Holiday Inn, Springdale, Arkansas
-  - Conference Paper Presentation: GNN-based Criticality Analysis on Interconnected Networks
+  - Paper Presentation: GNN-based Criticality Analysis on Interconnected Networks
 
 - **NSF-EPSCoR ARISE Annual Symposium** (2024)
   - Kansas State University, Olathe
