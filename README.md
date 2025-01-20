@@ -84,6 +84,31 @@ For more information, visit the project website: [ARISE Kansas NSF EPSCoR](https
 - **3MT Talk at Kansas State University, Olathe** (2024)
   - Kansas State University, Olathe
   - Presentation: Ensuring the Heartbeat of Our City: Strategic System Hardening for Infrastructure Networks
+ 
+## Workshops and Short Courses  
+
+- **AMS MRC Week on Complex Systems** (2023)  
+  - Focused on *Opinion Modeling in Graphs and Network Reconstruction*.  
+
+- **Summer School on Computer Vision & Basics of Modern AI** (2022)  
+  - IIIT Hyderabad  
+  - Covered advanced topics, including *CNNs, RNNs, Vision and Language, Multi-View Geometry,* and *Biometric Systems*.  
+
+- **Summer School on Machine Learning and Advanced AI** (2022)  
+  - IIIT Hyderabad  
+  - Covered *GANs, VAEs, RL, NLP,* and *Deep Learning*, followed by lab sessions on implementation.  
+
+- **14th Annual ADMA Conference and Graph Theory Day** (2022)  
+  - DAIICT and IIT Gandhinagar  
+
+- **FLY: Finding the Leader in You (16-hour Short Course)** (2022)  
+  - IIT Gandhinagar  
+  - Focused on developing a competitive mindset through active learning methodologies.  
+
+- **Certified Marketing Analytics Practitioner** (2022)  
+  - Henry Harvin  
+  - Completed a *4-day/32-hour training program* focused on analytics tools such as *R* and *Advanced Excel*.  
+
 
 ## Publications
 
