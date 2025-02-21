@@ -42,13 +42,15 @@ I am **Priyanka Gautam**, a **Ph.D. student at Kansas State University** special
 
 ### **🔹 Data Science Analyst | Accenture Applied Intelligence**  
 📍 Gurugram, India | *2021 – 2022*  
-- **Workforce Planning & Optimization:** Developed **ML-based hiring prediction models** improving accuracy by **90%**.  
-- **NLP & AI-driven Workforce Strategy:** Built **intelligent automation** to streamline HR operations.  
+- **Workforce Planning & Optimization Strategy:** Worked on an automated tool to optimize the workforce by analyzing job roles, hiring patterns, and market trends. Used Python, NLP, data analytics, machine learning, and Power BI for workflow planning.
+- **New Workforce Strategy:** Contributed to research on task categorization and intelligent augmentation, providing AI/ML and Python support.
 
 ### **🔹 Data Science Consultant | Eclerx Service Ltd.**  
 📍 Mumbai, India | *2019 – 2021*  
-- **Resume Parsing API:** Used **NER + Spacy models** to improve accuracy to **92%**, reducing HR workload by **50%**.  
-- **Image Processing for Security:** Designed a **YOLOv3-powered API** for automated **person classification** (99% accuracy).  
+- **NLP Projects:** Developed automated tools for loan document extraction and classification modeling. Used regex, K-means, and clustering algorithms for PDF document information extraction.
+- **HR Projects:** Created a Flask-based API for Resume Parsing & Ranking, employing a hybrid NLP model (NER model + Spacy).
+- **Image Processing:** Designed an API for person image classification into front-face, upper-body, and full-body segments using YOLOv3.
+- **Client Project - Morgan Stanley:** Built an ETL pipeline for data extraction and compatibility for pricing predictions from Data lakes and Hadoop clusters.
 
 ---
 
@@ -56,14 +58,18 @@ I am **Priyanka Gautam**, a **Ph.D. student at Kansas State University** special
 
 ### **🔹 Graduate Research Assistant | Kansas State University**  
 📍 Kansas, USA | *2022 - Present*  
-- **Resilient Infrastructure Analysis** _(NSF Grant)_  
-- **Influence Maximization in Dynamic Graphs** _(PNNL Collaboration)_  
-- **Graph-Based Opinion Dynamics Modeling** _(AMS MRC 2023)_  
+- Developing a graph-theoretic framework to study the relationship between interdependent critical infrastructure to pinpoint critical assets and links to incorporate resilience & robustness - **GRA NSF Grant**.
+- Collaborating with researchers from PNNL to identify influential nodes in dynamic networks using deep learning and reinforcement learning techniques - **PNNL**.
+- Collaboration project on Inferring Network Structure in Models of Opinion Dynamics - **AMS MRC 2023**.
 
 ### **🔹 Research Assistant | IIT Gandhinagar**  
 📍 Gujarat, India | *2017 - 2019*  
 - **Thesis:** [Crowd Counting & Surveillance](https://www.overleaf.com/read/rgtwrqsqddhd)  
-- **AI-Powered Traffic Prediction System**  
+- **AI-Powered Traffic Prediction System**
+- Proposed crowd monitoring solution for Rath Yatra using GPS and sensors.
+- Developed a web-based system for traffic prediction with JavaScript, HTML, and Google Maps API.
+- Provided rebar counting solution for TATA INNOVERSE in the steel industry.
+- Explored state-of-the-art models and developed an innovative approach using depth images for object detection and counting.
 
 ---
 
@@ -73,11 +79,13 @@ I am **Priyanka Gautam**, a **Ph.D. student at Kansas State University** special
 📜 **[Publication](https://ieeexplore.ieee.org/abstract/document/10520547)**  
 ✔ Identified **critical nodes & links** in **urban infrastructure**  
 ✔ Achieved **97%+ accuracy** using GNNs  
+Developed a scalable, adaptable framework using Graph Neural Networks (GNNs) to identify critical nodes/links in interconnected infrastructure networks. Incorporated performance-based feature metrics alongside traditional network-based metrics (like degree and eigenvector centrality) for vulnerability assessment. Achieved high accuracy in node (92.34% to 97.24%) and link (98.64% to 99.01%) classification using the CLARC dataset, demonstrating the efficacy of GNNs in pinpointing critical nodes and links.
 
 ### **🔹 Transductive GNN Learning for Power Grid Resilience**  
 📜 **[Publication](https://ieeexplore.ieee.org/abstract/document/10333912)**  
 ✔ Developed **scalable GNN models** for **grid failure prediction**  
 ✔ Improved prediction speed **2× over traditional methods**  
+Developed a novel approach using transductive Graph Neural Network (GNN) learning to enhance power grid resilience by identifying critical nodes and links. The GNN-based method leverages the grid's graph structure and operational data to learn resilience metrics, outperforming traditional simulation-based methods. Demonstrated the approach's efficacy through case studies on node criticality and cascading outages, highlighting its scalability and accuracy.
 
 ### **🔹 ARISE Kansas NSF EPSCoR**  
 🌐 **[Project Website](https://nsfepscor.ku.edu/track-1-arise/)**  
@@ -105,10 +113,27 @@ I am **Priyanka Gautam**, a **Ph.D. student at Kansas State University** special
 
 ## 🎓 Workshops & Certifications  
 
-✔ **AMS MRC Week on Complex Systems** *(2023)*  
-✔ **IIIT Hyderabad Summer School on AI & Computer Vision** *(2022)*  
-✔ **Henry Harvin Certified Marketing Analytics Practitioner** *(2022)*  
-✔ **14th ADMA Conference & Graph Theory Day** *(2022)*  
+- **AMS MRC Week on Complex Systems** (2023)  
+  - Focused on *Opinion Modeling in Graphs and Network Reconstruction*.  
+
+- **Summer School on Computer Vision & Basics of Modern AI** (2022)  
+  - IIIT Hyderabad  
+  - Covered advanced topics, including *CNNs, RNNs, Vision and Language, Multi-View Geometry,* and *Biometric Systems*.  
+
+- **Summer School on Machine Learning and Advanced AI** (2022)  
+  - IIIT Hyderabad  
+  - Covered *GANs, VAEs, RL, NLP,* and *Deep Learning*, followed by lab sessions on implementation.  
+
+- **14th Annual ADMA Conference and Graph Theory Day** (2022)  
+  - DAIICT and IIT Gandhinagar  
+
+- **FLY: Finding the Leader in You (16-hour Short Course)** (2022)  
+  - IIT Gandhinagar  
+  - Focused on developing a competitive mindset through active learning methodologies.  
+
+- **Certified Marketing Analytics Practitioner** (2022)  
+  - Henry Harvin  
+  - Completed a *4-day/32-hour training program* focused on analytics tools such as *R* and *Advanced Excel*.  
 
 ---
 
@@ -129,5 +154,4 @@ This work is supported by:
 📩 **Email:** [priyankagautam099@gmail.com](mailto:priyankagautam099@gmail.com)  
 💼 **[LinkedIn](https://www.linkedin.com/in/priyankagautam08/)**  
 🔗 **[Portfolio](https://priyankagautam08.github.io/portfolio/)**  
-🐦 **[Twitter/X](https://twitter.com/yourprofile) (Optional if you use it)**  
 📜 **[Google Scholar](https://scholar.google.com/citations?user=7uzapiUAAAAJ&hl=en)**  
