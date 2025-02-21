@@ -1,9 +1,9 @@
 # Data Scientist | Researcher 
 
-#### Technical Skills:  Data Science, Programming, Python,, PyTorch, Networkx, GCP, Machine Learning, SQL, AWS, MATLAB, HTML, C, C++, MTLB
+#### Technical Skills:  Data Science, Programming, Python, PyTorch, Networkx, GCP, Machine Learning, SQL, AWS, MATLAB, HTML, C, C++, MTLB
 
 ## Education
-- Ph.D., ECE | Kansas State University (_Aug 2022_)								       		
+- Ph.D. Candidate, ECE | Kansas State University (_Aug 2022_)				**(Expected graduation fall 2025)	**			       		
 - M. Tech., Computer Science	| Indian Institute of Technology Gandhinagar (_July 2019_)	 			        		
 - B.Tech., Information Technology | AKTU University (_June 2016_)
 
@@ -59,6 +59,12 @@ As a Graduate Research Assistant on the ARISE (Adaptive and Resilient Infrastruc
 
 For more information, visit the project website: [ARISE Kansas NSF EPSCoR](https://nsfepscor.ku.edu/track-1-arise/) [1].
 
+## Publications
+
+1. P. Gautam, A. Sreejith and B. Natarajan, "A Transductive Graph Neural Network learning for Grid Resilience Analysis," 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Glasgow, United Kingdom, 2023, pp. 1-6, doi: 10.1109/SmartGridComm57358.2023.10333912.
+2. P. Gautam and B. Natarajan, "GNN-based Criticality Analysis in Interconnected Infrastructure Networks," 2024 IEEE Green Technologies Conference (GreenTech), Springdale, AR, USA, 2024, pp. 213-217, doi: 10.1109/GreenTech58819.2024.10520547.
+3. Gautam, P., Natarajan, B., Munikoti, S., Ferdous, S. M., Halappanavar, M., "GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs." In \textit{Proceedings of the AAAI Workshop 2025}. (Accepted)
+
 ## Talks & Lectures
 
 - **AMS MRC on Complex Social Systems** (2023)
@@ -110,7 +116,4 @@ For more information, visit the project website: [ARISE Kansas NSF EPSCoR](https
   - Completed a *4-day/32-hour training program* focused on analytics tools such as *R* and *Advanced Excel*.  
 
 
-## Publications
 
-1. P. Gautam, A. Sreejith and B. Natarajan, "A Transductive Graph Neural Network learning for Grid Resilience Analysis," 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Glasgow, United Kingdom, 2023, pp. 1-6, doi: 10.1109/SmartGridComm57358.2023.10333912.
-2. P. Gautam and B. Natarajan, "GNN-based Criticality Analysis in Interconnected Infrastructure Networks," 2024 IEEE Green Technologies Conference (GreenTech), Springdale, AR, USA, 2024, pp. 213-217, doi: 10.1109/GreenTech58819.2024.10520547.
