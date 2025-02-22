@@ -19,10 +19,10 @@ I am **Priyanka Gautam**, a **Ph.D. student at Kansas State University** special
 My research focuses on finding the most important and influential points in large, constantly changing networks—like social media, transportation, or power grids. I use mathematical & graph models and data science to understand how these networks behave, helping make them stronger, more efficient, and more resilient to changes or disruptions. 🚀
 
 ### 💡 **What I Do**  
-- ✔ **Graph Neural Networks (GNNs)** for infrastructure resilience
-- ✔ **Influence Maximization in Dynamic Networks**  to pinpoints important nodes
-- ✔ **Causal Inference & Data Science**  to understand the network dynamics
-- ✔ **Network Optimization & Computational Intelligence**  
+✔ **Graph Neural Networks (GNNs)** for infrastructure resilience
+✔ **Influence Maximization in Dynamic Networks**  to pinpoints important nodes
+✔ **Causal Inference & Data Science**  to understand the network dynamics
+✔ **Network Optimization & Computational Intelligence**  
 
 ### 🎯 **Beyond Research**  
 Outside of academia, I am a **strong believer in hard work and continuous learning**. I love exploring **new experiences and challenges**, whether it's:  
