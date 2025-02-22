@@ -1,4 +1,4 @@
-# 🌟 Priyanka Gautam | Data Scientist | Researcher | United States, Kansas 
+# 🌟 Priyanka Gautam | Data Scientist | Researcher  
 
 🎓 **Ph.D. Candidate | Kansas State University, USA**  
 📍 Kansas, United States  
