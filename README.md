@@ -1,4 +1,4 @@
-# 🌟 Priyanka Gautam | Data Scientist | Researcher  
+# 🌟 Priyanka Gautam | Data Scientist | Researcher | United States, Kansas 
 
 🎓 **Ph.D. Candidate | Kansas State University, USA**  
 📍 Kansas, United States  
@@ -13,13 +13,25 @@
 
 ## 🌟 About Me  
 
-I am **Priyanka Gautam**, a **Ph.D. student at Kansas State University** specializing in **machine learning, graph theory, and complex networks**. My research focuses on:  
+I am **Priyanka Gautam**, a **Ph.D. student at Kansas State University** specializing in **machine learning, graph theory, and complex networks**. I am passionate about solving **real-world challenges** using **data science and AI** and love exploring how networks shape our world.  
+
+## Research Overview
+My research focuses on finding the most important and influential points in large, constantly changing networks—like social media, transportation, or power grids. I use mathematical models and data science to understand how these networks behave, helping make them stronger, more efficient, and more resilient to changes or disruptions. 🚀
+
+### 💡 **What I Do**  
 ✔ **Graph Neural Networks (GNNs)** for infrastructure resilience  
-✔ **Influence Maximization in Dynamic Networks**  
-✔ **Causal Inference & Data Science**  
+✔ **Influence Maximization in Dynamic Networks**  to pinpoints important nodes
+✔ **Causal Inference & Data Science**  to understand the network dynamics
 ✔ **Network Optimization & Computational Intelligence**  
 
----
+### 🎯 **Beyond Research**  
+Outside of academia, I am a **strong believer in hard work and continuous learning**. I love exploring **new experiences and challenges**, whether it's:  
+✔ Playing **sports & recreational activities** 🏀🏸  
+✔ Traveling to **new places & cultures** ✈️🏔️  
+✔ Cooking and experimenting with new **recipes** 🍳🌮  
+✔ Reading **psychology & self-improvement books** 📖🧠  
+
+I enjoy trying **different things** and **pushing my limits**, both in research and life. 🚀  
 
 ## 🚀 Technical Skills  
 
