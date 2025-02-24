@@ -13,7 +13,7 @@
 
 ## 🌟 About Me  
 
-I am **Priyanka Gautam**, a **Ph.D. student at Kansas State University** specializing in **machine learning, graph theory, and complex networks**. I am passionate about solving **real-world challenges** using **data science and AI** and love exploring how networks shape our world.  
+I am **Priyanka Gautam**, a **Ph.D. Candidate at Kansas State University** specializing in **machine learning, graph theory, and complex networks**. I am passionate about solving **real-world challenges** using **data science and AI** and love exploring how networks shape our world.  
 
 ## Research Overview
 My research focuses on finding the most important and influential points in large, constantly changing networks—like social media, transportation, or power grids. I use mathematical & graph models and data science to understand how these networks behave, helping make them stronger, more efficient, and more resilient to changes or disruptions. 🚀
